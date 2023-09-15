@@ -9,6 +9,6 @@ Programmers want to write fast apps. But the market doesn’t care."
 
 This is intriguing to me because it proposes a fresh perspective on the connection between software engineering and the consumer market, which I hadn't considered before. While I may not fully agree with the author's viewpoints, it's valuable to have someone who stands out and thinks critically about this issue.
 
-
 ## Comment by Joy Chen (netid: jc10137)
+
 I also found the article interesting as it challenges the conventional wisdom in the software development world, where there's often a strong emphasis on optimizing speed and technical performance. The author highlights the harsh reality that in the competitive consumer market, prioritizing speed and optimization can sometimes take a back seat to the demand for new features and functionalities.
