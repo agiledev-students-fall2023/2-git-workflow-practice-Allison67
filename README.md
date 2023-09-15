@@ -1,2 +1,10 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Is software getting worse?
+
+Article link: [Is software getting worse?](https://stackoverflow.blog/2023/01/30/is-software-getting-worse/)
+
+A paragraph I find interesting:
+"We can all agree that speed affects a user’s entire experience of an app. It’s an important marker of quality. But it’s difficult to sell. If you spend your time optimizing a core process while your competitor develops a new type of report, you’ll lose eight of your next ten sales over it. If you poll your existing customers about what you should work on next, they’re going to ask for features, not speed—unless the software is so slow it borders on unusable. And god forbid any red-blooded board of directors would allow the company to take a six-month detour from its product roadmap to work on technical debt. The pressure is always on us to build features, features, features.
+
+Programmers want to write fast apps. But the market doesn’t care."
+
+This is intriguing to me because it proposes a fresh perspective on the connection between software engineering and the consumer market, which I hadn't considered before. While I may not fully agree with the author's viewpoints, it's valuable to have someone who stands out and thinks critically about this issue.
